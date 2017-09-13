@@ -1,0 +1,2 @@
+# cloudoaportal
+模拟客户端调用门户webservice服务，属于webservice服务端代码
